@@ -18,7 +18,7 @@ Examinationsuppgift YH
 # Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
   * Om formuläret är korrekt ifyllt, och man klickar på "Striiiiike!", ska man komma till en konfirmations-sida.
   * Konfirmation-sidan ska visa Datum & tid (WHEN), antal spelare (WHO), antal banor (LANES), bokningsnummer (BOOKING NUMBER), samt en TOTAL summa att betala.
-  * Om jag efter att ha lagt en beställning klickar på "SWEET, LET'S GO!"-knappen, så visas texten "Ingen bokning gjord!".
+  * Om jag efter att ha lagt en beställning klickar på "SWEET, LET'S GO!"-knappen, så visas texten "SEE YOU SOON!".
 # Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
   * Det finns en menu-knapp på både Boknings- och Bekräftelse-vyn. Om den klickas så öppnas menyn.
   * Om man står i Boknings-vyn och klickar på "Confirmation" så navigeras man till Bekräftelse-vyn.
